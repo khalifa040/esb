@@ -61,6 +61,7 @@ button{outline: none;
 .p0{padding: 0;}
 
     @media (min-width: 600px) {
+     .w400{width: 400px;}
     .main{
       padding: 10px;
 display: flex;
