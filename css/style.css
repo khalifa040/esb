@@ -1,0 +1,88 @@
+
+ body{margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+    font-family: monospace,Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    }
+    
+    .fa-facebook-f{text-decoration: none;
+    color: #fff;}
+    .im{
+        padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  }
+  .imgc{display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .main div{padding: 10px;
+          margin: 10px;}
+  .brand{font-size: 2em;}
+  .tc{text-align: center;}
+  .title{text-align: center;
+  position: relative;
+  bottom: 20px;
+  background: #f2f2f2;
+  padding: 5px 20px;} 
+  .newsl{text-align: center;
+      padding: 5px;}
+   form{
+      border-radius: 5px;
+      }
+      a{text-decoration: none;}
+  .p20{padding: 20px;}
+  
+button{outline: none;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.bold{font-weight: bold;}
+    input{width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+       display: inline-block;
+       border-radius: 4px;
+        box-sizing: border-box;
+        border: none;
+        outline: none;
+      }
+     
+      .btnf{
+        background: #fff;
+        color: black;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;}
+.m0{margin: 0;}
+.p0{padding: 0;}
+
+    @media (min-width: 600px) {
+    .main{
+      padding: 10px;
+display: flex;
+justify-content: space-between;
+}
+.main{gap: 5px;
+    padding: 20px;}
+.main i{font-size: small;
+    color: black;}
+    .right-container{
+display: flex;
+align-items: center;
+}
+.w50{width: 50%;}
+.p05 {padding: 0px 5px;}
+.right-container {
+display: flex;
+align-items: center;
+ column-gap: 1rem; 
+}
+.gap div{
+max-width: 33.3%;
+}
+
+
+}
