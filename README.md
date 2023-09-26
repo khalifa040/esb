@@ -4,7 +4,7 @@
 
 # Tools used #
 * HTML, CSS and JavaScript
-* [PHP + SQL](https://khalifa040.github.io/portfolio/)
+* PHP + SQL
 * [Font Awesome 5](https://fontawesome.com/)
 
 
