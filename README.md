@@ -8,7 +8,7 @@
 * [Font Awesome 5](https://fontawesome.com/)
 
 
-This is the [live demo](http://esba.000.pe) of the project . 
+This is the [live demo](http://esba.ng) of the project . 
 
 *Right!
 
@@ -17,6 +17,6 @@ There we go!!!
  Use and modify it the way you want.
 
  => YOU ARE NOT ALLOWED
-  You are not allowed to remove the author’s link and name at the bottom without contacting me.
+  You are not allowed to remove the authorâ€™s link and name at the bottom without contacting me.
 
  Please contact me (+2349066947271 Whatsapp).
